@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/fa15-cs427/!svn/ver/22205/_projects/Banana/test-results-analyzer-plugin/tags/Iteration-3/src/test/webapp/jasmine/spec
+END
+CheckBoxSelectBuildsSpec.js
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/fa15-cs427/!svn/ver/22205/_projects/Banana/test-results-analyzer-plugin/tags/Iteration-3/src/test/webapp/jasmine/spec/CheckBoxSelectBuildsSpec.js
+END
+DiffResultsSpec.js
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/fa15-cs427/!svn/ver/22205/_projects/Banana/test-results-analyzer-plugin/tags/Iteration-3/src/test/webapp/jasmine/spec/DiffResultsSpec.js
+END
+SelectDiffResultsSpec.js
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/fa15-cs427/!svn/ver/22205/_projects/Banana/test-results-analyzer-plugin/tags/Iteration-3/src/test/webapp/jasmine/spec/SelectDiffResultsSpec.js
+END
+CreateURLSpec.js
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/fa15-cs427/!svn/ver/22205/_projects/Banana/test-results-analyzer-plugin/tags/Iteration-3/src/test/webapp/jasmine/spec/CreateURLSpec.js
+END

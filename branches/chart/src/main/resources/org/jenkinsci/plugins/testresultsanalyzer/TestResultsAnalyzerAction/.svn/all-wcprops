@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/fa15-cs427/!svn/ver/15920/_projects/Banana/test-results-analyzer-plugin/branches/chart/src/main/resources/org/jenkinsci/plugins/testresultsanalyzer/TestResultsAnalyzerAction
+END
+config.jelly
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/fa15-cs427/!svn/ver/15920/_projects/Banana/test-results-analyzer-plugin/branches/chart/src/main/resources/org/jenkinsci/plugins/testresultsanalyzer/TestResultsAnalyzerAction/config.jelly
+END
+index.jelly
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/fa15-cs427/!svn/ver/15920/_projects/Banana/test-results-analyzer-plugin/branches/chart/src/main/resources/org/jenkinsci/plugins/testresultsanalyzer/TestResultsAnalyzerAction/index.jelly
+END

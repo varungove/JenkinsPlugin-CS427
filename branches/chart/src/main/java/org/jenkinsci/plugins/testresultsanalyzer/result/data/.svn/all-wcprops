@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/fa15-cs427/!svn/ver/15920/_projects/Banana/test-results-analyzer-plugin/branches/chart/src/main/java/org/jenkinsci/plugins/testresultsanalyzer/result/data
+END
+PackageResultData.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/fa15-cs427/!svn/ver/15920/_projects/Banana/test-results-analyzer-plugin/branches/chart/src/main/java/org/jenkinsci/plugins/testresultsanalyzer/result/data/PackageResultData.java
+END
+TestCaseResultData.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/fa15-cs427/!svn/ver/15920/_projects/Banana/test-results-analyzer-plugin/branches/chart/src/main/java/org/jenkinsci/plugins/testresultsanalyzer/result/data/TestCaseResultData.java
+END
+ResultData.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/fa15-cs427/!svn/ver/15920/_projects/Banana/test-results-analyzer-plugin/branches/chart/src/main/java/org/jenkinsci/plugins/testresultsanalyzer/result/data/ResultData.java
+END
+ClassResultData.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/fa15-cs427/!svn/ver/15920/_projects/Banana/test-results-analyzer-plugin/branches/chart/src/main/java/org/jenkinsci/plugins/testresultsanalyzer/result/data/ClassResultData.java
+END
